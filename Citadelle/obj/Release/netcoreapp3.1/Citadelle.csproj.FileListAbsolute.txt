@@ -1,0 +1,12 @@
+/Users/thomasrenaud/Projects/RenaudLeger/Citadelle/bin/Release/netcoreapp3.1/Citadelle.deps.json
+/Users/thomasrenaud/Projects/RenaudLeger/Citadelle/bin/Release/netcoreapp3.1/Citadelle.runtimeconfig.json
+/Users/thomasrenaud/Projects/RenaudLeger/Citadelle/bin/Release/netcoreapp3.1/Citadelle.runtimeconfig.dev.json
+/Users/thomasrenaud/Projects/RenaudLeger/Citadelle/bin/Release/netcoreapp3.1/Citadelle.dll
+/Users/thomasrenaud/Projects/RenaudLeger/Citadelle/bin/Release/netcoreapp3.1/Citadelle.pdb
+/Users/thomasrenaud/Projects/RenaudLeger/Citadelle/obj/Release/netcoreapp3.1/Citadelle.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thomasrenaud/Projects/RenaudLeger/Citadelle/obj/Release/netcoreapp3.1/Citadelle.AssemblyInfoInputs.cache
+/Users/thomasrenaud/Projects/RenaudLeger/Citadelle/obj/Release/netcoreapp3.1/Citadelle.AssemblyInfo.cs
+/Users/thomasrenaud/Projects/RenaudLeger/Citadelle/obj/Release/netcoreapp3.1/Citadelle.csproj.CoreCompileInputs.cache
+/Users/thomasrenaud/Projects/RenaudLeger/Citadelle/obj/Release/netcoreapp3.1/Citadelle.dll
+/Users/thomasrenaud/Projects/RenaudLeger/Citadelle/obj/Release/netcoreapp3.1/Citadelle.pdb
+/Users/thomasrenaud/Projects/RenaudLeger/Citadelle/obj/Release/netcoreapp3.1/Citadelle.genruntimeconfig.cache
